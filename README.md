@@ -1,5 +1,6 @@
 The program include implementation of Neville's method, Newton's forward method, divided difference method, and cubic spline interpolation.
-
+Polynomial interpolation is the interpolation of a given data set by the polynomial of lowest possible degree that passes through the points of the dataset.
+This helps us approximate points on complicated curves.
 
 Assignment: Programming Assignment 2
 
