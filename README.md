@@ -1,4 +1,4 @@
-The program include Neville's method, Newton's forward method, divided difference method, and cubic spline interpolation.
+The program include implementation of Neville's method, Newton's forward method, divided difference method, and cubic spline interpolation.
 
 
 Assignment: Programming Assignment 2
