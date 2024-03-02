@@ -12,8 +12,8 @@ Language: Python
 
 To Compile:
 
-Copy the python file (main.py) path; should be (cot-4500-as2/main.py)
+Copy the python file (cot-4500-as2.py) path; should be (cot-4500-as2.py)
 Access the Config files on replit (.replit)
-Change -> entrypoint equal to the file path; should be entrypoint = "cot-4500-as2/main.py"
-Change -> the second variable in the run column; should be run = ["python3", "cot-4500-as2/main.py"]
+Change -> entrypoint equal to the file path; should be entrypoint = "cot-4500-as2.py"
+Change -> the second variable in the run column; should be run = ["python3", "cot-4500-as2.py"]
 To Execute: Click the Run button at the top
